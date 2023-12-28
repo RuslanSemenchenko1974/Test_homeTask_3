@@ -1,7 +1,6 @@
 package homeTask6;
 
 import java.util.List;
-
 public class HomeTask6 {
 
     private void check(List<Integer> number){
